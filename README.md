@@ -7,6 +7,6 @@ The solution will enhance the company’s revenues and reduce the losses caused 
 
 The data provided by STEG is composed of two files. The first one is comprised of client data and the second one contains billing history from 2005 to 2019.
 
-You can find the data in this <a href="https://zindi.africa/competitions/fraud-detection-in-electricity-and-gas-consumption-challenge/data"></a> just you need to unzip files.
+You can find the data in this <a href="https://zindi.africa/competitions/fraud-detection-in-electricity-and-gas-consumption-challenge/data"> here </a> just you need to unzip files.
 
-The <strong>WorkSpace.py</strong>
+The <strong>WorkSpace.py</strong> is a local librairy of EDA to make my notebook prettier.
